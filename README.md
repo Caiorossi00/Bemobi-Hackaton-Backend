@@ -18,7 +18,7 @@ Bê é uma assistente financeira pessoal que ajuda os usuários a monitorar suas
 ## Tecnologias Utilizadas
 
 - **Back-end**: Node.js, Express.js
-- **Front-end**: HTML, CSS
+- **Front-end**: HTML, CSS, FontAwesome
 - **Comunicação**: Rotas RESTful com JSON
 - **Controle de CORS**: Permite acesso seguro do front-end ao back-end
 
@@ -29,13 +29,21 @@ Bê é uma assistente financeira pessoal que ajuda os usuários a monitorar suas
 No futuro, este backend pode evoluir para usar **Machine Learning (ML)** e **agentes de IA** para gerar análises e recomendações mais sofisticadas:
 
 - Cada conta e transação poderia ser armazenada em um **banco de dados real** (SQL ou NoSQL) ao invés de dados mock, permitindo histórico e análises em tempo real.
-
 - Modelos de ML poderiam **identificar padrões de gastos**, prever risco de saldo insuficiente e sugerir cortes ou ajustes automáticos, considerando categorias, recorrência e comportamento do usuário.
-
 - Agentes de IA poderiam executar **ações automáticas seguras**, como enviar notificações, agendar pagamentos ou sugerir transferências, mantendo privacidade e compliance com a LGPD.
-
 - As análises atuais (saldo insuficiente, contas vencendo, sugestões de corte) seriam derivadas de **inferências do modelo**, tornando a assistência mais inteligente, personalizada e adaptativa.
 
+---
+
+## Frontend
+
+O frontend do projeto **Bemobi** é responsável por exibir os day cards, dashboards e interfaces de interação com o usuário.
+
+- Repositório Frontend: [Bemobi-Hackaton-Frontend](https://github.com/Caiorossi00/Bemobi-Hackaton-frontend)  
+- Estrutura: HTML, CSS, Javascript  
+- Conecta-se a este backend via rotas RESTful (`/usuario`, `/contas`, `/analise`)
+
+---
 
 ## Estrutura de Dados
 
