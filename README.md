@@ -56,3 +56,16 @@ Exemplo de usuário mock:
   "saldo": 250.0,
   "saldoPrevisto": 200.0
 }
+
+### Página Home
+
+<p align="center">
+  <img src="https://github.com/Caiorossi00/Bemobi-Hackaton-frontend/blob/main/UI.png?raw=true" alt="Frontend Preview" width="600"/>
+</p>
+
+### Página Assistência da Bê
+
+<p align="center">
+  <img src="https://github.com/Caiorossi00/Bemobi-Hackaton-frontend/blob/main/UI-2.png?raw=true" alt="Assistência da Bê" width="600"/>
+</p>
+
