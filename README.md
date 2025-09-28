@@ -37,7 +37,7 @@ No futuro, este backend pode evoluir para usar **Machine Learning (ML)** e **age
 
 ## Frontend
 
-O frontend do projeto **Bemobi** é responsável por exibir os day cards, dashboards e interfaces de interação com o usuário.
+O frontend do projeto **Bê da Bemobi** é responsável por exibir os day cards, dashboards e interfaces de interação com o usuário.
 
 - Repositório Frontend: [Bemobi-Hackaton-Frontend](https://github.com/Caiorossi00/Bemobi-Hackaton-frontend)  
 - Estrutura: HTML, CSS, Javascript  
