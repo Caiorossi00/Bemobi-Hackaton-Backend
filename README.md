@@ -45,18 +45,6 @@ O frontend do projeto **Bê da Bemobi** é responsável por exibir os day cards,
 
 ---
 
-## Estrutura de Dados
-
-Exemplo de usuário mock:
-
-```json
-{
-  "id": "user_001",
-  "nome": "Caio Rossi",
-  "saldo": 250.0,
-  "saldoPrevisto": 200.0
-}
-
 ### Página Home
 
 <p align="center">
@@ -68,4 +56,17 @@ Exemplo de usuário mock:
 <p align="center">
   <img src="https://github.com/Caiorossi00/Bemobi-Hackaton-frontend/blob/main/UI-2.png?raw=true" alt="Assistência da Bê" width="600"/>
 </p>
+
+
+## Estrutura de Dados
+
+Exemplo de usuário mock:
+
+```json
+{
+  "id": "user_001",
+  "nome": "Caio Rossi",
+  "saldo": 250.0,
+  "saldoPrevisto": 200.0
+}
 
