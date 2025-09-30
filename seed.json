@@ -1,74 +1,91 @@
 {
-"usuario": {
+  "usuario": {
     "id": "user_001",
     "nome": "Caio Rossi",
     "cpf": "123.456.789-00",
     "saldo": 250.0,
     "saldoPrevisto": 200.0
-},
-"contas": [
+  },
+  "contas": [
+    {
+      "id": "conta_001",
+      "nome": "Água",
+      "valor": 85,
+      "vencimento": "2025-09-30",
+      "tipo": "essencial",
+      "status": "pendente"
+    },
 
-    { "id": "conta_001", 
-    "nome": "Água", "valor": 85, 
-    "vencimento": "2025-09-30", 
-    "tipo": "essencial", 
-    "status": "pendente" },
+    {
+      "id": "conta_002",
+      "nome": "Aluguel",
+      "valor": 1200,
+      "vencimento": "2025-10-01",
+      "tipo": "essencial",
+      "status": "pendente"
+    },
 
-    { "id": "conta_002",
-    "nome": "Aluguel", 
-    "valor": 1200,
-    "vencimento": "2025-10-01", 
-    "tipo": "essencial", 
-    "status": "pendente" },
+    {
+      "id": "conta_003",
+      "nome": "Internet",
+      "valor": 100,
+      "vencimento": "2025-10-03",
+      "tipo": "essencial",
+      "status": "pendente"
+    },
 
-    { "id": "conta_003",
-    "nome": "Internet",
-    "valor": 100, 
-    "vencimento": "2025-10-03", 
-    "tipo": "essencial", 
-    "status": "pendente" },
+    {
+      "id": "conta_004",
+      "nome": "Netflix",
+      "valor": 40,
+      "vencimento": "2025-09-29",
+      "tipo": "assinatura",
+      "status": "pendente"
+    },
 
-    { "id": "conta_004", 
-    "nome": "Netflix", 
-    "valor": 40, 
-    "vencimento": "2025-09-29",
-    "tipo": "assinatura", 
-    "status": "pendente" },
+    {
+      "id": "conta_005",
+      "nome": "Academia",
+      "valor": 90,
+      "vencimento": "2025-10-02",
+      "tipo": "assinatura",
+      "status": "pendente"
+    },
 
-    { "id": "conta_005", 
-    "nome": "Academia", 
-    "valor": 90, 
-    "vencimento": "2025-10-02", 
-    "tipo": "assinatura", 
-    "status": "pendente" },
+    {
+      "id": "conta_006",
+      "nome": "Restaurante",
+      "valor": 200,
+      "vencimento": "2025-09-27",
+      "tipo": "lazer",
+      "status": "pendente"
+    },
 
-    { "id": "conta_006", 
-    "nome": "Restaurante", 
-    "valor": 200, 
-    "vencimento": 
-    "2025-09-27", 
-    "tipo": "lazer", 
-    "status": "pendente" },
+    {
+      "id": "conta_007",
+      "nome": "Mercado",
+      "valor": 600,
+      "vencimento": "2025-09-25",
+      "tipo": "essencial",
+      "status": "pago"
+    },
 
-    { "id": "conta_007", 
-    "nome": "Mercado",
-    "valor": 600, 
-    "vencimento": "2025-09-25", 
-    "tipo": "essencial", 
-    "status": "pago" },
+    {
+      "id": "conta_008",
+      "nome": "Cartão de Crédito",
+      "valor": 900,
+      "vencimento": "2025-10-05",
+      "tipo": "essencial",
+      "status": "pendente"
+    },
 
-    { "id": "conta_008", 
-    "nome": "Cartão de Crédito", 
-    "valor": 900, 
-    "vencimento": "2025-10-05", 
-    "tipo": "essencial", 
-    "status": "pendente" },
-
-    { "id": "conta_009", 
-    "nome": "Transporte",
-    "valor": 250, 
-    "vencimento": "2025-09-30", 
-    "tipo": "essencial", 
-    "status": "pendente" }
-]
+    {
+      "id": "conta_009",
+      "nome": "Transporte",
+      "valor": 250,
+      "vencimento": "2025-09-30",
+      "tipo": "essencial",
+      "status": "pendente"
+    }
+  ]
 }
